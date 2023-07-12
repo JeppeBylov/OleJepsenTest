@@ -1,7 +1,6 @@
 {
   "country": "dk",
   "type": "PTE",
-  "templateUrl": "https://github.com/microsoft/AL-Go-PTE@PPPreview",
   "powerPlatformSolutionFolder": "OleJepsen",
   "environments": [
     "Developer"
