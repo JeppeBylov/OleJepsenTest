@@ -1,5 +1,8 @@
 {
   "country": "dk",
+  "appFolders": [],
+  "testFolders": [],
+  "bcptTestFolders": []
   "type": "PTE",
   "powerPlatformSolutionFolder": "OleJepsen",
   "environments": [
