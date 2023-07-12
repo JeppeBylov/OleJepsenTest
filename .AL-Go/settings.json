@@ -1,6 +1,14 @@
 {
-  "country": "us",
-  "appFolders": [],
-  "testFolders": [],
-  "bcptTestFolders": []
+  "country": "dk",
+  "type": "PTE",
+  "templateUrl": "https://github.com/microsoft/AL-Go-PTE@PPPreview",
+  "powerPlatformSolutionFolder": "OleJepsen",
+  "environments": [
+    "Developer"
+  ],
+  "DeployTo<GitHubEnvironmentName>": {
+    "environmentName": "Sandbox",
+    "companyId": "CRONUS Danmark A/S",
+    "ppEnvironmentUrl": "https://org07f5f3bf.crm4.dynamics.com/"
+  }
 }
