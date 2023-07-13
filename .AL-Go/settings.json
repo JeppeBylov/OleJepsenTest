@@ -3,8 +3,7 @@
   "appFolders": [],
   "testFolders": [],
   "bcptTestFolders": [],
-  "type": "PTE",
-  "powerPlatformSolutionFolder": "OleJepsen",
+  "type": "PTE",,
   "environments": [
     "Developer"
   ],
