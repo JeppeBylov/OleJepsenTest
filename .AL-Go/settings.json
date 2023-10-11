@@ -3,13 +3,6 @@
   "appFolders": [],
   "testFolders": [],
   "bcptTestFolders": [],
-  "type": "PTE",
-  "environments": [
-    "Developer"
-  ],
-  "DeployTo<GitHubEnvironmentName>": {
-    "environmentName": "Sandbox",
-    "companyId": "CRONUS Danmark A/S",
-    "ppEnvironmentUrl": "https://org07f5f3bf.crm4.dynamics.com/"
+  "type": "PTE"
   }
 }
